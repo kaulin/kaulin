@@ -1,4 +1,4 @@
-## Kaulin is Finnish for a rolling pin. I own one but rarely use it.
+*Kaulin is Finnish for a rolling pin. I own one but rarely use it.*
 ![Simply drawn image of a rolling pin](kaulin.png)
 
 <!--
