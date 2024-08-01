@@ -1,4 +1,7 @@
-## Hi there 👋
+## Lets roll!
+
+![Simply drawn image of a rolling pin](kaulin.png)
+Kaulin is Finnish for a rolling pin. I own one but rarely use it.
 
 <!--
 **kaulin/kaulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
