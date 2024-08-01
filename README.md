@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="kaulin.png" alt="Simply drawn image of a rolling pin" height="100" />
 </div>
 *Kaulin is Finnish for a rolling pin. I own one but rarely use it.*
