@@ -1,9 +1,7 @@
 ## Hey there!
 🧑‍🍳 Kaulin is Finnish for a rolling pin. I own one but rarely use it.
 
-🖥️ Projects:
-
-| Name | Description | Tech |
+| Project | Description | Tech |
 | --- | --- | --- |
 | [Minishell](https://github.com/kaulin/42_minishell) | Bashlike CLI | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 | [Cub3D](https://github.com/em1e/cub3d) | Raycasting game | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
